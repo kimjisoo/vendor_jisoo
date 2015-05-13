@@ -12,8 +12,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.com.android.dateformat=yyyy-MM-dd
 
 PRODUCT_COPY_FILES += \
-	vendor/yashar/apns-conf.xml:system/etc/apns-conf.xml
-        vendor/yashar/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip
+    vendor/yashar/apns-conf.xml:system/etc/apns-conf.xml \
+    vendor/yashar/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip \
+    vendor/yashar/prebuilt/common/lib/libjni_latinimegoogle.so:system/lib/libjni_latinimegoogle.so \
+    vendor/yashar/prebuilt/common/lib64/libjni_latinimegoogle.so:system/lib64/libjni_latinimegoogle.so \
+    vendor/yashar/prebuilt/common/lib64/libjni_keyboarddecoder.so:system/lib64/libjni_keyboarddecoder.so
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.ringtone=Titania.ogg \
