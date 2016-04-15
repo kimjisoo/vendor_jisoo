@@ -4,4 +4,5 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     Eleven \
     LockClock \
-    Terminal
+    Terminal \
+    Trebuchet
