@@ -1,4 +1,5 @@
 # Additional packages
 PRODUCT_PACKAGES += \
     LockClock \
-    Launcher3
+    Launcher3 \
+    OmniSwitch
