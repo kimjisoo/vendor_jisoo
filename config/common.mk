@@ -18,6 +18,11 @@ PRODUCT_COPY_FILES += \
     vendor/jisoo/prebuilt/common/bin/10-bootanimation.sh:system/addon.d/10-bootanimation.sh \
     vendor/jisoo/prebuilt/common/bin/90-adfilter.sh:system/addon.d/90-adfilter.sh \
     vendor/jisoo/prebuilt/common/priv-app/Phonesky/BlankStore.apk:system/priv-app/Phonesky/BlankStore.apk \
+    vendor/jisoo/prebuilt/common/app/Etar/Etar.apk:system/app/Etar/Etar.apk \
+    vendor/jisoo/prebuilt/common/app/Fennec/Fennec.apk:system/app/Fennec/Fennec.apk \
+    vendor/jisoo/prebuilt/common/app/K9/K9.apk:system/app/K9/K9.apk \
+    vendor/jisoo/prebuilt/common/app/FDroid/FDroid.apk:system/app/FDroid/FDroid.apk \
+    vendor/jisoo/prebuilt/common/app/Amaze/Amaze.apk:system/app/Amaze/Amaze.apk \
     vendor/jisoo/prebuilt/common/lib/libjni_latinimegoogle.so:system/lib/libjni_latinimegoogle.so \
     vendor/jisoo/prebuilt/common/lib64/libjni_latinimegoogle.so:system/lib64/libjni_latinimegoogle.so \
     vendor/jisoo/prebuilt/common/lib64/libjni_keyboarddecoder.so:system/lib64/libjni_keyboarddecoder.so
