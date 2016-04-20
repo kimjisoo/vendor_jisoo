@@ -17,6 +17,7 @@ PRODUCT_COPY_FILES += \
     vendor/jisoo/prebuilt/common/bin/20-kernelparms.sh:system/addon.d/10-kernelparms.sh \
     vendor/jisoo/prebuilt/common/bin/10-bootanimation.sh:system/addon.d/10-bootanimation.sh \
     vendor/jisoo/prebuilt/common/bin/90-adfilter.sh:system/addon.d/90-adfilter.sh \
+    vendor/jisoo/prebuilt/common/bin/71-layers.sh:system/addon.d/71-layers.sh \
     vendor/jisoo/prebuilt/common/priv-app/Phonesky/BlankStore.apk:system/priv-app/Phonesky/BlankStore.apk \
     vendor/jisoo/prebuilt/common/app/Etar/Etar.apk:system/app/Etar/Etar.apk \
     vendor/jisoo/prebuilt/common/app/Fennec/Fennec.apk:system/app/Fennec/Fennec.apk \
