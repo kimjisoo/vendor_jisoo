@@ -35,3 +35,7 @@ PRODUCT_COPY_FILES += \
 
 # Versioning
 -include vendor/jisoo/config/version.mk
+
+  # APNs
+ PRODUCT_COPY_FILES += \
+    vendor/jisoo/prebuilt/common/etc/apns-conf.xml:system/etc/apns-conf.xml
