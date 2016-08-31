@@ -8,7 +8,8 @@ PRODUCT_COPY_FILES += \
     vendor/jisoo/prebuilt/common/app/Etar/Etar.apk:system/app/Etar/Etar.apk \
     vendor/jisoo/prebuilt/common/app/FDroid/FDroid.apk:system/app/FDroid/FDroid.apk \
     vendor/jisoo/prebuilt/common/app/SlimLauncher/SlimLauncher.apk:system/app/SlimLauncher/SlimLauncher.apk \
-    vendor/jisoo/prebuilt/common/app/Superuser/Superuser.apk:system/app/Superuser/Superuser.apk
+    vendor/jisoo/prebuilt/common/app/Superuser/Superuser.apk:system/app/Superuser/Superuser.apk \
+    vendor/jisoo/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip
 
 # Additional packages
 -include vendor/jisoo/config/packages.mk
