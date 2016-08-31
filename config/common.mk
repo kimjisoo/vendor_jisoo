@@ -1,3 +1,8 @@
+
+# Backup Tool
+PRODUCT_COPY_FILES += \
+    vendor/jisoo/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip
+
 # Additional packages
 -include vendor/jisoo/config/packages.mk
 
