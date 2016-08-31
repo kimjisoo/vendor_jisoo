@@ -13,6 +13,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 PRODUCT_COPY_FILES += \
 	vendor/yashar/apns-conf.xml:system/etc/apns-conf.xml
+        vendor/yashar/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.ringtone=Titania.ogg \
@@ -22,6 +23,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # show selinux status
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.selinux=1
-    
+
 PRODUCT_PACKAGES += \
     Camera2
