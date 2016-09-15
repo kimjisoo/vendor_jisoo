@@ -18,3 +18,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.ringtone=Titania.ogg \
     ro.config.notification_sound=Tethys.ogg \
     ro.config.alarm_alert=Oxygen.ogg
+
+# show selinux status
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.build.selinux=1
