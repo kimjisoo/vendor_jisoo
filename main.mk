@@ -13,6 +13,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 PRODUCT_COPY_FILES += \
     vendor/yashar/apns-conf.xml:system/etc/apns-conf.xml \
+    vendor/yashar/prebuilt/common/app/Substratum/Substratum.apk:system/app/Substratum/Substratum.apk \
     vendor/yashar/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip \
     vendor/yashar/prebuilt/common/lib/libjni_latinimegoogle.so:system/lib/libjni_latinimegoogle.so \
     vendor/yashar/prebuilt/common/lib64/libjni_latinimegoogle.so:system/lib64/libjni_latinimegoogle.so \
