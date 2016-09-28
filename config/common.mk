@@ -7,6 +7,7 @@ PRODUCT_COPY_FILES += \
     vendor/jisoo/prebuilt/common/app/Amaze/Amaze.apk:system/app/Amaze/Amaze.apk \
     vendor/jisoo/prebuilt/common/app/Etar/Etar.apk:system/app/Etar/Etar.apk \
     vendor/jisoo/prebuilt/common/app/FDroid/FDroid.apk:system/app/FDroid/FDroid.apk \
+    vendor/jisoo/prebuilt/common/app/Fennec/Fennec.apk:system/app/Fennec/Fennec.apk \
     vendor/jisoo/prebuilt/common/app/microG/microG.apk:system/priv-app/microG/microG.apk \
     vendor/jisoo/prebuilt/common/app/Substratum/Substratum.apk:system/app/Substratum/Substratum.apk \
     vendor/jisoo/prebuilt/common/app/SlimLauncher/SlimLauncher.apk:system/app/SlimLauncher/SlimLauncher.apk \
