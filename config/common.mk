@@ -29,3 +29,8 @@ PRODUCT_COPY_FILES += \
 
 # Dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/jisoo/overlay/dictionaries
+
+# DU Utils Library
+PRODUCT_BOOT_JARS += \
+    org.dirtyunicorns.utils
+
