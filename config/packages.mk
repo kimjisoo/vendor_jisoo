@@ -1,7 +1,8 @@
 PRODUCT_PACKAGES += \
      LockClock \
      Masquerade \
-     SlimLauncher
+     SlimLauncher \
+     OmniSwitch
 
 # DU Utils Library
 PRODUCT_PACKAGES += \
