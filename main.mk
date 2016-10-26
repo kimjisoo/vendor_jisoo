@@ -22,3 +22,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # show selinux status
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.selinux=1
+    
+PRODUCT_PACKAGES += \
+    Camera2
