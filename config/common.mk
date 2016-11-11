@@ -5,7 +5,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Backup Tool
 PRODUCT_COPY_FILES += \
     vendor/jisoo/prebuilt/common/app/Amaze/Amaze.apk:system/app/Amaze/Amaze.apk \
-    vendor/jisoo/prebuilt/common/app/Etar/Etar.apk:system/app/Etar/Etar.apk \
     vendor/jisoo/prebuilt/common/app/FDroid/FDroid.apk:system/app/FDroid/FDroid.apk \
     vendor/jisoo/prebuilt/common/app/Fennec/Fennec.apk:system/app/Fennec/Fennec.apk \
     vendor/jisoo/prebuilt/common/app/Substratum/Substratum.apk:system/app/Substratum/Substratum.apk \
