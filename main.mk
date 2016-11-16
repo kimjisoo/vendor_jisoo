@@ -28,4 +28,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.selinux=1
 
 PRODUCT_PACKAGES += \
-    Camera2
+    Camera2 \
+    LockClock \
+    Masquerade \
+    SlimLauncher \
+    OmniSwitch
