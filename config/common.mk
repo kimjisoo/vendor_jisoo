@@ -11,7 +11,6 @@ PRODUCT_COPY_FILES += \
     vendor/jisoo/prebuilt/common/app/Amaze/Amaze.apk:system/app/Amaze/Amaze.apk \
     vendor/jisoo/prebuilt/common/app/FDroid/FDroid.apk:system/app/FDroid/FDroid.apk \
     vendor/jisoo/prebuilt/common/app/Fennec/Fennec.apk:system/app/Fennec/Fennec.apk \
-    vendor/jisoo/prebuilt/common/app/Substratum/Substratum.apk:system/app/Substratum/Substratum.apk \
     vendor/jisoo/prebuilt/common/app/Superuser/Superuser.apk:system/app/Superuser/Superuser.apk \
     vendor/jisoo/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip \
     vendor/jisoo/prebuilt/common/lib/libjni_latinimegoogle.so:system/lib/libjni_latinimegoogle.so \
