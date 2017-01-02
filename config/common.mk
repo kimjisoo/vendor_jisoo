@@ -2,6 +2,10 @@
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.selinux=1
 
+# Substratum
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.substratum.verified=true
+
 # Backup Tool
 PRODUCT_COPY_FILES += \
     vendor/jisoo/prebuilt/common/app/Amaze/Amaze.apk:system/app/Amaze/Amaze.apk \
