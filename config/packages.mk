@@ -1,3 +1,4 @@
 PRODUCT_PACKAGES += \
      LockClock \
-     ThemeInterfacer
+     ThemeInterfacer \
+     OmniSwitch
