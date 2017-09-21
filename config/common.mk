@@ -18,3 +18,8 @@ PRODUCT_COPY_FILES += \
 
 # Dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/jisoo/overlay/dictionaries
+
+# Secure adb
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.adb.secure=1
+
