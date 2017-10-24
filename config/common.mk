@@ -23,3 +23,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/jisoo/overlay/dictionaries
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.adb.secure=1
 
+# Disable Rescue Party
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.sys.disable_rescue=true
+
